@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944936449017",
+    "firebase_url": "https://tomorrows-green-skies.firebaseio.com",
+    "project_id": "tomorrows-green-skies",
+    "storage_bucket": "tomorrows-green-skies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944936449017:android:1e8a0de9dc0d78b5038328",
+        "android_client_info": {
+          "package_name": "com.greenskies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944936449017-g05acfqijhiu0v4fo9hdt7ck15sv4ege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wN1VB3M8nOk2bD0SU9vY3lyLq1M-9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944936449017-g05acfqijhiu0v4fo9hdt7ck15sv4ege.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

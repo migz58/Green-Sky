@@ -1,0 +1,68 @@
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.welcome-card img {
+    max-height: 35vh;
+    overflow: hidden;
+}
+
+.logo-img {
+    margin-top: 5%;
+    width: 20%;
+    margin: auto;
+}
+
+.btn-get-started {
+    margin: 0 4%;
+}
+
+ion-page {
+    justify-content: center !important;
+}
+
+.welcome-card {
+    background-color: #298A08;
+    background-image: linear-gradient(#298A08, #31B404, #298A08);
+}
+
+.weather-card {
+    background-color: #0101DF;
+    background-image: linear-gradient(to bottom right, #8181F7, #5858FA);
+}
+
+.welcome-card-title,
+.welcome-card-sub-title,
+.welcome-card-content {
+    color: white;
+}
+
+//Weather
+ion-card {
+    background: rgba(27, 24, 24, 0.5);
+    color: white;
+}
+
+.temp {
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    margin: 0px 0px 2px 0px;
+    color: white;
+}
+
+.weather-icon {
+    display: inline-block !important;
+    text-align: center !important
+}
+
+.desc {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
